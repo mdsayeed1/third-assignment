@@ -4,3 +4,24 @@ body{
 .text-color{
     color: #289BDE;
 }
+.slide-text{
+    padding-bottom: 10%;
+}
+.bg-color{
+    background-color: rgba(214, 210, 210, 0.2);
+    display: 100%;
+}
+.slide-text h1{
+    font-size: 65px;
+    
+}
+.button-style{
+    color: #289BDE;
+    height: 50px;
+    width: 122px;
+    font-size: 20px;
+    color: white;
+}
+.slide-text1{
+    padding: -10%;
+}
