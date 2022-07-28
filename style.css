@@ -50,3 +50,9 @@ body{
 .registerte{
     height: 700px;
 }
+.footer-part{
+    height: 472px;
+    color: white;
+    background-color: #161616;
+    padding-top: 15%;
+}
