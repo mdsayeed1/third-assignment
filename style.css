@@ -43,3 +43,10 @@ body{
     
     height: 300px;
 }
+.registert a{
+    text-decoration: none;
+    color: white;
+}
+.registerte{
+    height: 700px;
+}
