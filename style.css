@@ -27,7 +27,7 @@ body{
 }
 .middle-text{
     width: auto;
-    height: 500px;
+    height: 350px;
     text-align: center;
     padding-top: 10%;
     font-size: x-large;
@@ -48,7 +48,7 @@ body{
     color: white;
 }
 .registerte{
-    height: 700px;
+    display: none;
 }
 .footer-part{
     height: 472px;
