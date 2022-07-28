@@ -25,3 +25,14 @@ body{
 .slide-text1{
     padding: -10%;
 }
+.middle-text{
+    width: auto;
+    height: 500px;
+    text-align: center;
+    padding-top: 10%;
+    font-size: x-large;
+}
+.image-size{
+    height: 200px;
+    width: 200px;
+}
